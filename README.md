@@ -1,5 +1,6 @@
 # 💫 About Me:
 I'm majoring in Computer Science and have a strong passion for technology and continuous learning.<br>
+Portfolio: https://matheusbergami.github.io/portfolio/
 
 
 ## 🌐 Socials:
